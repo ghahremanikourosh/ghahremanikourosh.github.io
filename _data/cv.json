@@ -1,0 +1,191 @@
+{
+  "basics": {
+    "name": "Kourosh Ghahremani",
+    "label": "Linguist & Computational Sociolinguistics Researcher",
+    "email": "kourosh.ghahremani@yahoo.com",
+    "phone": "(+98) 901 912 5002",
+    "website": "https://houmanrajabii.github.io",
+    "summary": "Linguist with a strong theoretical grounding in translation studies, pragmatics, and cross-cultural discourse analysis, now actively developing skills in computational approaches to language. Contributed to peer-reviewed research at EVALITA 2026 on multilingual reclamatory intent detection, where my background in sociolinguistics and translation theory informed cross-lingual feature design and error analysis. Currently building proficiency in Python and machine learning to pursue research at the intersection of linguistic theory and natural language processing.",
+    "location": {
+      "address": "Hamedan",
+      "city": "Hamedan",
+      "countryCode": "IR"
+    },
+    "profiles": []
+  },
+  "education": [
+    {
+      "institution": "Kharazmi University of Tehran",
+      "area": "Master of Arts, Translation Studies",
+      "studyType": "MA",
+      "startDate": "2019-09",
+      "endDate": "2023-02",
+      "gpa": "15.91 / 20  (3.5 / 4)",
+      "location": "Tehran, Iran",
+      "summary": "Faculty of Foreign Languages and Literature. Thesis: The Analysis of Lexical Normalization in the Covid19-related Neologisms: The Case of English to Persian Equivalents."
+    },
+    {
+      "institution": "Islamic Azad University of Hamadan (IAUH)",
+      "area": "Bachelor of Arts, Translation Studies",
+      "studyType": "BA",
+      "startDate": "2015-02",
+      "endDate": "2019-02",
+      "gpa": "15.82 / 20  (3.5 / 4)",
+      "location": "Hamadan, Iran",
+      "summary": "Faculty of Humanities, Department of Foreign Languages and Literature. Ranked among the top three Translation Studies B.A. graduates."
+    }
+  ],
+  "work": [
+    {
+      "company": "Sama High School",
+      "position": "ESL Instructor",
+      "location": "Hamedan, Iran",
+      "startDate": "2022-09",
+      "endDate": "2023-06",
+      "highlights": [
+        "Delivered English as a Second Language instruction to high school students."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "ESL Instructor",
+      "location": "Hamedan, Iran",
+      "startDate": "2020-04",
+      "endDate": "Present",
+      "highlights": [
+        "Online and in-person English language teaching."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Subtitlist",
+      "location": "Hamedan, Iran",
+      "startDate": "2019-12",
+      "endDate": "Present",
+      "highlights": [
+        "English–Persian and Persian–English subtitling."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Translator",
+      "location": "Hamedan, Iran",
+      "startDate": "2017-09",
+      "endDate": "Present",
+      "highlights": [
+        "English–Persian translation, online and in-person."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Identity, Toxicity, or Complexity? A Language-Specific Feature Selection Approach to Reclamatory Intent Detection",
+      "publisher": "Proceedings of EVALITA 2026 (Task A: MultiPRIDE), Bari, Italy",
+      "releaseDate": "2026",
+      "status": "Published",
+      "authors": "Rajabi, H., Ghavidel, F., & Ghahremani, K.",
+      "url": "https://aclanthology.org/2026.evalita-1.23.pdf",
+      "summary": "Multilingual hate-speech detection system (English, Spanish, Italian) combining monolingual BERT embeddings with 61 language-specific sociolinguistic features. Ranked 1st/24 runs on the Italian subtask (Macro F1 = 0.8981). Contribution: cross-lingual sociolinguistic feature framing, design of identity-marker and pragmatic complexity features, and qualitative cross-lingual error analysis."
+    },
+    {
+      "name": "Analysis of Lexical Normalization in the Covid19-related Neologisms: The Case of English to Persian Equivalents",
+      "publisher": "Iranian Journal of Applied Linguistics, 28(2), 28–54",
+      "releaseDate": "2025",
+      "status": "Published, First Author",
+      "authors": "Ghahremani, K., & Talebzadeh, H.",
+      "url": "",
+      "summary": "Examined how 29 translators rendered English coroneologisms into Persian; applied Newmark's (1988) normalization taxonomy and Molina & Albir's (2020) translation strategy framework; found that blends and derived words were systematically normalized while old words with new meanings were the least transferable type."
+    }
+  ],
+  "research": [
+    {
+      "name": "MultiPRIDE @ EVALITA 2026 — Reclamatory Intent Detection",
+      "status": "Published",
+      "startDate": "2025-09",
+      "endDate": "2026-02",
+      "keywords": ["BERT", "spaCy", "Random Forest", "Python", "multilingual classification", "sociolinguistic feature engineering"],
+      "highlights": [
+        "Linguistic feature design: Defined and operationalised a framework of 61 sociolinguistic candidate features across three categories — morphosyntactic complexity, sentiment-toxicity dynamics, and identity markers — grounded in pragmatics, sociolinguistics, and translation theory.",
+        "Cross-lingual error analysis: Conducted qualitative analysis of 20 misclassified samples per language; identified and named two principal failure modes — the Identity Trap (English agentivity confusion between reclaimer and victim) and Structural Mimicry (Italian genre confusion) — and proposed Semantic Role Labeling as a future architectural remedy.",
+        "Multilingual interpretation: Provided the theoretical framing for why reclamation manifests differently per language, drawing on cross-cultural pragmatics and discourse analysis.",
+        "Developing computational skills: Engaged with spaCy NLP pipelines, HuggingFace BERT models, and scikit-learn Random Forest as a first entry point into NLP feature extraction and classification workflows."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Place, Subtask A1 (Italian)",
+      "date": "2026",
+      "awarder": "MultiPRIDE @ EVALITA 2026",
+      "summary": "Shared task on multilingual slur reclamation detection; 19 competing teams, Macro F1 = 0.8981 (Ghavidel-Rajabi-Ghahremani team)."
+    },
+    {
+      "title": "Top 0.5% National University Entrance Exam",
+      "date": "2019",
+      "awarder": "Iranian National University Entrance Examination",
+      "summary": "Ranked 108th out of approximately 3,500 participants for the graduate programme."
+    },
+    {
+      "title": "Top Three B.A. Graduates",
+      "date": "2019",
+      "awarder": "Islamic Azad University of Hamadan (IAUH)",
+      "summary": "Ranked among the top three Translation Studies B.A. graduates."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "1st International Symposium on Translation Studies",
+      "date": "2021-02",
+      "issuer": "Iranian Society for Teaching English Language and Literature (TELLSI)",
+      "summary": "15 specialised lectures and one training workshop in collaboration with Ferdowsi University of Mashhad."
+    },
+    {
+      "name": "Corpus Linguistics Workshop",
+      "date": "2023-11",
+      "issuer": "International Imam Khomeini University",
+      "summary": "Presented by Dr. Mehrdad Vasheghani Farhani (virtual)."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python (developing)", "basic scripting", "introductory data handling", "NumPy", "Pandas"]
+    },
+    {
+      "name": "NLP & ML",
+      "keywords": ["spaCy (feature extraction, POS tagging, dependency parsing)", "scikit-learn (Random Forest, feature selection)", "HuggingFace Transformers (BERT-based models — introductory)"]
+    },
+    {
+      "name": "Corpus & Annotation",
+      "keywords": ["Corpus-based lexical analysis", "contrastive analysis", "error analysis", "qualitative discourse annotation"]
+    },
+    {
+      "name": "Other",
+      "keywords": ["Git (basic)", "academic writing in LaTeX"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native"
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Hossein Talebzadeh",
+      "reference": "Assistant Professor of Foreign Languages, Kharazmi University of Tehran, Iran. Talebzadeh@khu.ac.ir | Tel: (+98) 9100476348"
+    },
+    {
+      "name": "Dr. Mohsen Hanif",
+      "reference": "Associate Professor of Foreign Languages, Kharazmi University of Tehran, Iran. Mhanif@khu.ac.ir | Tel: (+98) 9125087258"
+    },
+    {
+      "name": "Dr. Abbas Mehrpooya",
+      "reference": "Assistant Professor of Foreign Languages, Islamic Azad University of Hamedan, Iran. Abbas.mehrpooya@gmail.com | Tel: (+98) 9123227296"
+    }
+  ]
+}

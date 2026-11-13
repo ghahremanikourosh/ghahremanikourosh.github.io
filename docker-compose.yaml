@@ -1,0 +1,14 @@
+services:
+  jekyll-site:
+    image: jekyll-site
+    build: .
+    user: root
+    volumes:
+      - .:/usr/src/app          # Syncs your code (Keep this)
+      - /usr/src/app/_site      # <--- ADD THIS (Keeps build files inside Docker only)
+      - /usr/src/app/.git       # <--- ADD THIS (Prevents syncing git history)
+    ports: [ "4000:4000" ]
+    # user: 1000:1000
+    environment: [ "JEKYLL_ENV=docker" ]
+    # Added --force_polling to make it stable on Mac M1
+    command: jekyll serve -H 0.0.0.0 --force_polling --config _config.yml,_config_docker.yml
