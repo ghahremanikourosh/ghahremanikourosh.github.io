@@ -84,7 +84,7 @@
       "releaseDate": "2026",
       "status": "Published",
       "authors": "Rajabi, H., Ghavidel, F., & Ghahremani, K.",
-      "url": "https://apa.dipsco.unitn.it/evalita2026/56.pdf",
+      "url": "https://aclanthology.org/2026.evalita-1.23/",
       "summary": "Multilingual hate-speech detection system (English, Spanish, Italian) combining monolingual BERT embeddings with 61 language-specific sociolinguistic features. Ranked 1st/24 runs on the Italian subtask (Macro F1 = 0.8981). Contribution: cross-lingual sociolinguistic feature framing, design of identity-marker and pragmatic complexity features, and qualitative cross-lingual error analysis."
     },
     {

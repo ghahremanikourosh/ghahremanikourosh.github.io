@@ -6,7 +6,7 @@ permalink: /publication/2026-04-15-identity-toxicity-or-complexity
 excerpt: 'A language-specific feature selection approach for detecting reclaimed slurs across Italian, English, and Spanish, ranking 1st/24 runs on the Italian subtask.'
 date: 2026-04-15
 venue: 'Proceedings of EVALITA 2026 (Task A: MultiPRIDE), Bari, Italy'
-paperurl: 'https://apa.dipsco.unitn.it/evalita2026/56.pdf'
+paperurl: 'https://aclanthology.org/2026.evalita-1.23/'
 citation: 'Rajabi, H., Ghavidel, F., & Ghahremani, K. (2026). "Identity, Toxicity, or Complexity? A Language-Specific Feature Selection Approach to Reclamatory Intent Detection." <i>Proceedings of EVALITA 2026 (Task A: MultiPRIDE)</i>, Bari, Italy.'
 ---
 
