@@ -84,7 +84,7 @@
       "releaseDate": "2026",
       "status": "Published",
       "authors": "Rajabi, H., Ghavidel, F., & Ghahremani, K.",
-      "url": "https://aclanthology.org/2026.evalita-1.23.pdf",
+      "url": "https://apa.dipsco.unitn.it/evalita2026/56.pdf",
       "summary": "Multilingual hate-speech detection system (English, Spanish, Italian) combining monolingual BERT embeddings with 61 language-specific sociolinguistic features. Ranked 1st/24 runs on the Italian subtask (Macro F1 = 0.8981). Contribution: cross-lingual sociolinguistic feature framing, design of identity-marker and pragmatic complexity features, and qualitative cross-lingual error analysis."
     },
     {
@@ -93,7 +93,7 @@
       "releaseDate": "2025",
       "status": "Published, First Author",
       "authors": "Ghahremani, K., & Talebzadeh, H.",
-      "url": "",
+      "url": "http://ijal.khu.ac.ir/article-1-3293-en.html",
       "summary": "Examined how 29 translators rendered English coroneologisms into Persian; applied Newmark's (1988) normalization taxonomy and Molina & Albir's (2020) translation strategy framework; found that blends and derived words were systematically normalized while old words with new meanings were the least transferable type."
     }
   ],
