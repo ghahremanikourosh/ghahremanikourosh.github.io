@@ -13,17 +13,17 @@ title                    : "Kourosh Ghahremani"
 title_separator          : "-"
 name                     : &name "Kourosh Ghahremani"
 description : &description "Linguist & Computational Sociolinguistics Researcher"
-url                      : https://houmanrajabii.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://ghahremanikourosh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "houmanrajabi/houmanrajabi.github.io"
+repository               : "ghahremanikourosh/ghahremanikourosh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Kourosh Ghahremani"
   pronouns         : # example: "she/her"
   bio              : "Linguist & Computational Sociolinguistics Researcher"
